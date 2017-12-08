@@ -1,0 +1,51 @@
+
+
+	 	SPADE, Release Developer 0.9  
+	(c) 2003 University of Southern California
+ 		written by Radu Soricut
+
+
+SPADE (Sentence-level PArsing for DiscoursE) is a discourse parser at sentence 
+level written by Radu Soricut at USC/ISI. You can find details about the 
+approach implemented by SPADE in the paper: 
+
+Radu Soricut and Daniel Marcu (2003). 
+Sentence Level Discourse Parsing using Syntactic and Lexical Information. 
+Proceedings of the Human Language Technology and North American Association 
+for Computational Linguistics Conference (HLT/NAACL), May 27-June 1, 
+Edmonton, Canada. 
+
+SPADE assumes as input a one-sentence-per-line file, and the output is one 
+discourse parse tree per sentence. The algorithm uses syntactic parse trees, 
+and needs to call Charniak's syntactic parser. See the bottom of this page 
+for instructions on how to integrate Charniak's parser with SPADE. 
+Both Charniak's parser and SPADE use SUN executables; SPADE also needs 
+Perl 5.0 (or newer). 
+
+An embbeded feature of SPADE is the discourse segmenter. 
+You can run SPADE with the -seg-only option; in this case, the output is 
+one segment (elementary discourse unit) per line, with end-of-sentence 
+boundaries inserted at the original (input) sentence boundaries. 
+
+To run SPADE, you need to download Charniak's syntactic parser, available at
+http://www.cs.brown.edu/people/ec/#software
+After you install Charniak's parser on your machine, you must edit the file 
+spade.pl (in the bin/ directory); in line 3, set the value of $CHP to the 
+directory path for Charniak's parser.
+
+IF you need to create executables for an architecure different than
+SUN, you should do the following (otherwise, skip these steps):
+
+% cd bin/
+% rm dependencies edubreak
+% make
+
+After the new executables are created, you are ready to run SPADE.
+
+Run SPADE:
+
+% spade.pl [-seg-only] one-sentence-per-line-file
+
+Example:
+
+% spade.pl ../example/wsj_0616.sent

@@ -1,0 +1,1455 @@
+638 NP -> 2 NP | SBAR 
+624 VP -> 2 VBD | SBAR 
+410 NP -> 2 NP | VP 
+221 VP -> 3 VP | CC VP 
+202 NP -> 3 NP , | SBAR 
+186 S -> 5 S , | NP VP . 
+147 VP -> 2 VBP | SBAR 
+135 S -> 5 S , | CC S . 
+135 NP -> 4 NP , | SBAR , 
+135 NP -> 4 NP , SBAR , | 
+125 S -> 5 SBAR , | NP VP . 
+122 SINV -> 7 `` S , '' | VP NP . 
+109 VP -> 2 VBZ | SBAR 
+103 S -> 7 `` S , '' | NP VP . 
+96 NP -> 2 NP | PRN 
+86 NP -> 3 NP PP | SBAR 
+77 NP -> 4 NP : | NP . 
+60 VP -> 2 VBG | SBAR 
+59 PRN -> 3 , S , | 
+57 PRN -> 3 , | S , 
+56 VP -> 4 VP , | CC VP 
+53 NP -> 3 DT NN | S 
+47 VP -> 2 VB | SBAR 
+47 S -> 4 SBAR , | NP VP 
+41 VP -> 3 VBD NP | SBAR 
+40 S -> 4 S : | S . 
+38 VP -> 3 VB NP | SBAR 
+35 VP -> 2 VBN | SBAR 
+35 S -> 4 S , | CC S 
+33 NP -> 4 NP , | VP , 
+33 NP -> 4 NP , VP , | 
+31 NP -> 3 NP , | VP 
+30 S -> 6 S , '' | NP VP . 
+28 VP -> 4 VBD NP , | S 
+28 SINV -> 6 S , '' | VP NP . 
+27 NP -> 3 NP PP | VP 
+26 S -> 3 S | CC S 
+25 NP -> 3 DT NN | SBAR 
+24 VP -> 3 VB NP | S 
+20 NP -> 4 NP PP , | SBAR 
+19 VP -> 3 VBD PP | SBAR 
+19 NP -> 4 NP | : NP : 
+19 NP -> 4 NP : NP : | 
+18 SINV -> 5 S , | VP NP . 
+17 VP -> 3 VBG NP | S 
+17 S -> 6 CC SBAR , | NP VP . 
+17 NP -> 4 DT JJ NN | S 
+17 NP -> 3 NP PP | S 
+17 NP -> 2 NNS | SBAR 
+16 SBAR -> 3 SBAR | CC SBAR 
+16 S -> 4 S | CC S . 
+15 VP -> 3 VBN PP | SBAR 
+14 VP -> 4 VBD NP PP | SBAR 
+13 VP -> 4 VB NP PP | SBAR 
+12 VP -> 5 VBD NP PP , | S 
+12 VP -> 3 VBN PP | S 
+12 NP -> 5 NP , NP , | SBAR 
+12 NP -> 3 NP NN | S 
+11 VP -> 5 VP , | VP CC VP 
+11 VP -> 3 VBG NP | SBAR 
+11 NP -> 2 NN | S 
+10 VP -> 4 VBZ : | `` S 
+10 VP -> 3 VBN NP | SBAR 
+10 SBAR -> 4 SBAR , | CC SBAR 
+10 S -> 6 NP , | S , VP . 
+10 S -> 6 NP , S , | VP . 
+10 PRN -> 3 : NP : | 
+10 PRN -> 2 S , | 
+10 NP -> 2 NNS | S 
+9 VP -> 5 VP , VP | CC VP 
+9 VP -> 4 VBD , | `` S 
+9 S -> 6 `` S , | NP VP . 
+8 VP -> 4 VBZ NP , | S 
+8 VP -> 4 VBD NP , | SBAR 
+8 VP -> 4 VB NP , | SBAR 
+8 VP -> 4 VB NP , | S 
+8 VP -> 3 VBZ NP | SBAR 
+8 VP -> 3 VB S | SBAR 
+8 VP -> 3 VB PP | SBAR 
+8 VP -> 3 VB PP | S 
+8 NP -> 5 NP PP , | SBAR , 
+8 NP -> 5 NP PP , SBAR , | 
+8 NP -> 3 PRP$ NN | S 
+8 NP -> 3 NP | VP . 
+8 NP -> 2 NN | SBAR 
+7 VP -> 4 VBN PP , | SBAR 
+7 VP -> 4 VBD S , | S 
+7 VP -> 4 VBD NP PP | S 
+7 VP -> 3 VBN S | SBAR 
+7 VP -> 3 VBD , | S 
+7 VP -> 3 VB ADVP | SBAR 
+7 S -> 6 SBAR , | NP ADVP VP . 
+7 S -> 6 CC | SBAR , NP VP . 
+7 NP -> 4 DT JJ NN | SBAR 
+7 NP -> 3 NP | PRN SBAR 
+7 NP -> 3 JJ NN | SBAR 
+6 VP -> 3 VBP NP | SBAR 
+6 S -> 7 `` S , '' | VP NP . 
+6 S -> 6 `` SBAR , | NP VP . 
+6 S -> 6 S , | CC S . '' 
+6 PRN -> 3 , | SINV , 
+6 PRN -> 3 , SINV , | 
+6 NP -> 4 NP PP , | VP 
+6 NP -> 3 NP | VP PP 
+6 NP -> 3 NP NN | SBAR 
+6 ADJP -> 2 JJ | SBAR 
+5 VP -> 5 VP , '' | CC VP 
+5 VP -> 5 VBD NP PP , | PP 
+5 VP -> 5 VBD , ADVP , | SBAR 
+5 VP -> 4 VBZ , | `` S 
+5 VP -> 4 VBD PP , | S 
+5 VP -> 4 VB NP PP | S 
+5 VP -> 3 VBG PP | SBAR 
+5 S -> 7 `` S , | CC S . '' 
+5 S -> 7 PP , SBAR , | NP VP . 
+5 S -> 6 SBAR , | NP VP . '' 
+5 S -> 6 S , '' | CC S . 
+5 S -> 6 CC S , | CC S . 
+5 S -> 3 S , | S 
+5 PRN -> 5 , '' | S , `` 
+5 PRN -> 5 , '' S , | `` 
+5 PRN -> 4 , '' | S , 
+5 PRN -> 4 , '' S , | 
+5 PRN -> 3 : S : | 
+5 PRN -> 3 : PP : | 
+5 NP -> 4 NP | -LRB- NP -RRB- 
+5 NP -> 3 NP PP | PRN 
+5 NP -> 2 NP PRN | 
+4 VP -> 6 VBD NP PP PP , | SBAR 
+4 VP -> 4 VP | : CC VP 
+4 VP -> 4 VBZ NP , | SBAR 
+4 VP -> 4 VBN S , | PP 
+4 VP -> 4 VBN PP PP | S 
+4 VP -> 4 VBN NP , | S 
+4 VP -> 4 VBG NP PP | S 
+4 VP -> 4 VBD NP NP | S 
+4 VP -> 4 VBD : | `` S 
+4 VP -> 3 VP , | SBAR 
+4 VP -> 3 VBP ADJP | SBAR 
+4 VP -> 3 VBD S | SBAR 
+4 VP -> 3 VBD ADJP | SBAR 
+4 VP -> 3 VB ADJP | SBAR 
+4 S -> 7 PP , S , | CC S . 
+4 S -> 6 `` S , | CC S . 
+4 S -> 5 SBAR , | `` NP VP 
+4 S -> 5 S , | VP NP . 
+4 S -> 5 NP , | S , VP 
+4 S -> 5 NP , S , | VP 
+4 PRN -> 3 , | SBAR , 
+4 PRN -> 3 , SBAR , | 
+4 PRN -> 2 , | S 
+4 NP -> 5 `` NP , '' | SBAR 
+4 NP -> 4 `` NP '' | PRN 
+4 NP -> 4 NP | SBAR , PP 
+4 NP -> 4 NP | : SBAR : 
+4 NP -> 4 NP SBAR , | PP 
+4 NP -> 4 NP : SBAR : | 
+4 NP -> 4 NP , '' | SBAR 
+4 NP -> 3 PRP$ NNS | S 
+4 NP -> 3 NP PRN | SBAR 
+4 NP -> 3 NP NP | SBAR 
+4 NP -> 2 NP | S 
+3 VP -> 6 VP , | VP , CC VP 
+3 VP -> 6 VP , VP , | CC VP 
+3 VP -> 6 VBD PP , PP , | SBAR 
+3 VP -> 5 VP | CC VP , S 
+3 VP -> 5 VP CC VP , | S 
+3 VP -> 5 VP , | CC ADVP VP 
+3 VP -> 5 VBG NP PP , | SBAR 
+3 VP -> 5 VBG NP PP , | S 
+3 VP -> 5 VBD NP PP , | SBAR 
+3 VP -> 5 VB NP PP , | SBAR 
+3 VP -> 5 VB NP PP , | PP 
+3 VP -> 4 VP | CC `` VP 
+3 VP -> 4 VP | CC ADVP VP 
+3 VP -> 4 VP CC VP | SBAR 
+3 VP -> 4 VBZ NP PP | SBAR 
+3 VP -> 4 VBZ ADJP , | PP 
+3 VP -> 4 VBP PP , | S 
+3 VP -> 4 VBP NP , | PP 
+3 VP -> 4 VBP ADJP , | SBAR 
+3 VP -> 4 VBG PP , | S 
+3 VP -> 4 VBD | SBAR , S 
+3 VP -> 4 VBD SBAR , | S 
+3 VP -> 4 VBD NP ADVP | SBAR 
+3 VP -> 3 VBZ PP | SBAR 
+3 VP -> 3 VBZ ADVP | SBAR 
+3 VP -> 3 VBZ , | S 
+3 VP -> 3 VBP ADVP | S 
+3 VP -> 3 VBN PP | PRN 
+3 VP -> 3 VBN NP | S 
+3 VP -> 3 VBN ADVP | S 
+3 VP -> 3 VBG PP | S 
+3 VP -> 3 VBG ADVP | SBAR 
+3 VP -> 3 VBD PP | S 
+3 VP -> 3 VB ADVP | S 
+3 SINV -> 6 `` S , | VP NP . 
+3 S -> 7 `` SBAR , | NP VP . '' 
+3 S -> 7 S , | S , CC S . 
+3 S -> 7 S , S , | CC S . 
+3 S -> 7 PP , | SBAR , NP VP . 
+3 S -> 7 NP , SBAR , | NP VP . 
+3 S -> 7 ADVP , S , | CC S . 
+3 S -> 6 NP , | SBAR , VP . 
+3 S -> 6 NP , SBAR , | VP . 
+3 S -> 6 CC S , | NP VP . 
+3 S -> 6 : SBAR , | NP VP . 
+3 S -> 5 SBAR , | NP ADVP VP 
+3 S -> 5 S : | S . '' 
+3 S -> 4 SBAR | NP VP . 
+3 PRN -> 4 , | NP VP , 
+3 PRN -> 4 , NP VP , | 
+3 PRN -> 4 , '' | SINV , 
+3 PRN -> 4 , '' SINV , | 
+3 NP -> 6 NP , NP , | SBAR , 
+3 NP -> 6 NP , NP , SBAR , | 
+3 NP -> 6 NNP NNP NNP NNP NNP . | 
+3 NP -> 6 JJ , JJ NN NN NNS | 
+3 NP -> 5 NP PP PP , | PP 
+3 NP -> 5 NP PP , | VP , 
+3 NP -> 5 NP PP , VP , | 
+3 NP -> 4 NP | VP , SBAR 
+3 NP -> 4 NP VP , | SBAR 
+3 NP -> 4 NP PRN , | PP 
+3 NP -> 4 NP , PP , | 
+3 NP -> 4 NP , ADJP | S 
+3 NP -> 4 NNP NNP | PRN NNP 
+3 NP -> 4 NNP NNP PRN | NNP 
+3 NP -> 3 NP | `` SBAR 
+3 NP -> 3 NP | VP VP 
+3 NP -> 3 NP | SBAR PP 
+3 NP -> 3 NP VP | VP 
+3 NP -> 3 NP VP | SBAR 
+3 NP -> 3 NP '' | SBAR 
+3 NP -> 3 JJ NN | S 
+3 NP -> 3 DT NNS | S 
+3 NP -> 2 NNP . | 
+3 ADJP -> 3 JJ PP | S 
+3 ADJP -> 2 ADJP | SBAR 
+3 ADJP -> 2 ADJP | PRN 
+3 ADJP -> 2 ADJP PRN | 
+2 VP -> 6 VP , | CC VP , PP 
+2 VP -> 6 VP , CC VP , | PP 
+2 VP -> 6 VBD NP PP | S , SBAR 
+2 VP -> 6 VBD NP PP S , | SBAR 
+2 VP -> 6 VBD NP PP PP , | PP 
+2 VP -> 5 VP , | CC RB VP 
+2 VP -> 5 VBZ NP PP , | S 
+2 VP -> 5 VBZ ADJP PP , | S 
+2 VP -> 5 VBZ , PP , | SBAR 
+2 VP -> 5 VBN PP PP , | SBAR 
+2 VP -> 5 VBN PP PP , | S 
+2 VP -> 5 VBN PP NP , | SBAR 
+2 VP -> 5 VBN NP PP , | S 
+2 VP -> 5 VBD S , '' | S 
+2 VP -> 5 VBD PRT NP , | S 
+2 VP -> 5 VBD NP PP PP | SBAR 
+2 VP -> 5 VBD NP PP PP | S 
+2 VP -> 5 VBD ADJP PP , | PP 
+2 VP -> 5 VBD ADJP NP , | PP 
+2 VP -> 5 VB PP PP PP | PP 
+2 VP -> 5 VB NP PP PP | S 
+2 VP -> 5 VB NP PP , | S 
+2 VP -> 5 VB NP NP , | S 
+2 VP -> 5 VB CC VB NP | S 
+2 VP -> 5 VB ADJP PP , | S 
+2 VP -> 4 VP | CC RB VP 
+2 VP -> 4 VP , | ADVP VP 
+2 VP -> 4 VBZ PP , | SBAR 
+2 VP -> 4 VBZ ADJP , | SBAR 
+2 VP -> 4 VBP RB ADJP | SBAR 
+2 VP -> 4 VBP NP PP | SBAR 
+2 VP -> 4 VBP NP , | S 
+2 VP -> 4 VBP ADVP ADJP | SBAR 
+2 VP -> 4 VBP ADJP , | S 
+2 VP -> 4 VBN S , | S 
+2 VP -> 4 VBN PP PP | SBAR 
+2 VP -> 4 VBN PP , | S 
+2 VP -> 4 VBN NP PP | S 
+2 VP -> 4 VBN NP ADVP | SBAR 
+2 VP -> 4 VBN ADVP PP | S 
+2 VP -> 4 VBN ADVP , | PP 
+2 VP -> 4 VBG PRT PP | S 
+2 VP -> 4 VBG PP , | SBAR 
+2 VP -> 4 VBG NP PRT | SBAR 
+2 VP -> 4 VBG NP PP | SBAR 
+2 VP -> 4 VBG NP , | S 
+2 VP -> 4 VBD S NP | PP 
+2 VP -> 4 VBD S , | PP 
+2 VP -> 4 VBD PP , | SBAR 
+2 VP -> 4 VBD NP | S PP 
+2 VP -> 4 VBD NP S | PP 
+2 VP -> 4 VBD NP NP | SBAR 
+2 VP -> 4 VBD ADVP , | SBAR 
+2 VP -> 4 VBD ADJP , | SBAR 
+2 VP -> 4 VBD ADJP , | S 
+2 VP -> 4 VB PRT NP | SBAR 
+2 VP -> 4 VB PP , | S 
+2 VP -> 4 VB NP NP | SBAR 
+2 VP -> 4 SBAR , | MD VP 
+2 VP -> 3 VP | CONJP VP 
+2 VP -> 3 VP | : NP 
+2 VP -> 3 VBP PP | S 
+2 VP -> 3 VBP NP | S 
+2 VP -> 3 VBP ADVP | SBAR 
+2 VP -> 3 VBN ADVP | SBAR 
+2 VP -> 3 VBN ADJP | SBAR 
+2 VP -> 3 VBN , | PP 
+2 VP -> 3 VBG PRT | SBAR 
+2 VP -> 3 VBD | `` S 
+2 VP -> 3 VBD ADVP | SBAR 
+2 VP -> 3 VBD , | SBAR 
+2 VP -> 3 VB ADJP | PRN 
+2 VP -> 3 VB ADJP PRN | 
+2 VP -> 3 VB , | SBAR 
+2 VP -> 3 VB , | S 
+2 VP -> 3 ADVP VBP | SBAR 
+2 VP -> 3 ADVP VBG | SBAR 
+2 SINV -> 9 `` S , '' | VP NP , S . 
+2 SINV -> 8 `` S , '' | VP NP PP . 
+2 SINV -> 7 VP NP : | `` S . '' 
+2 S -> 8 CC PP , | SBAR , NP VP . 
+2 S -> 8 CC PP , SBAR , | NP VP . 
+2 S -> 7 NP , | S , ADVP VP . 
+2 S -> 7 NP , S , | ADVP VP . 
+2 S -> 7 CC SBAR , | NP ADVP VP . 
+2 S -> 7 ADVP , SBAR , | NP VP . 
+2 S -> 6 SBAR , | ADVP NP VP . 
+2 S -> 6 S : | CC S . '' 
+2 S -> 6 S , | S , CC S 
+2 S -> 6 S , S , | CC S 
+2 S -> 6 S , '' | VP NP . 
+2 S -> 6 PP , S | CC S . 
+2 S -> 6 ADVP , S | CC S . 
+2 S -> 5 SINV , | NP VP . 
+2 S -> 5 SBAR , | S VP . 
+2 S -> 5 SBAR , | ADVP NP VP 
+2 S -> 5 S , | S CC S 
+2 S -> 5 S , S | CC S 
+2 S -> 5 PP , | `` NP VP 
+2 S -> 5 NP , | SBAR , VP 
+2 S -> 5 NP , SBAR , | VP 
+2 S -> 4 S , | S . 
+2 S -> 4 NP `` VP '' | 
+2 S -> 4 NP `` ADJP '' | 
+2 S -> 3 SBAR | NP VP 
+2 S -> 3 NP PRN | VP 
+2 PRN -> 5 , '' | SINV , `` 
+2 PRN -> 5 , '' SINV , | `` 
+2 PRN -> 4 : CC ADJP : | 
+2 PRN -> 4 -LRB- JJ . -RRB- | 
+2 PRN -> 3 : ADJP : | 
+2 PRN -> 3 -LRB- NNP -RRB- | 
+2 PRN -> 3 -LRB- ADJP -RRB- | 
+2 PP -> 4 PP , PP , | 
+2 NP -> 7 NP PP ADJP , | VP , PP 
+2 NP -> 7 NP PP ADJP , VP , | PP 
+2 NP -> 7 DT NN , NN , CC NN | 
+2 NP -> 6 NP PP , PP | SBAR . 
+2 NP -> 6 NP : | NP : CC NP 
+2 NP -> 6 NP : | NP , CC NP 
+2 NP -> 6 NP : NP : | CC NP 
+2 NP -> 5 NP PP PP , | SBAR 
+2 NP -> 5 NP PP ADJP , | VP 
+2 NP -> 5 NP , ADJP , | VP 
+2 NP -> 5 JJ JJ NNS CC NNS | 
+2 NP -> 5 DT `` NN NN '' | 
+2 NP -> 4 NP | VP , PP 
+2 NP -> 4 NP | SBAR : NP 
+2 NP -> 4 NP | PRN , SBAR 
+2 NP -> 4 NP | PRN , PP 
+2 NP -> 4 NP SBAR | : NP 
+2 NP -> 4 NP PRN , | SBAR 
+2 NP -> 4 NP JJ NN | SBAR 
+2 NP -> 4 NP JJ NN | S 
+2 NP -> 4 NP : | S . 
+2 NP -> 4 NP , NP | PRN 
+2 NP -> 4 DT JJR JJ NNS | 
+2 NP -> 4 DT ADJP NN | S 
+2 NP -> 3 VBG NN | SBAR 
+2 NP -> 3 NP | : ADVP 
+2 NP -> 3 NP PP , | 
+2 NP -> 3 NP NNS | S 
+2 NP -> 3 NP : | S 
+2 NP -> 3 NP . | NP 
+2 NP -> 3 NP '' | VP 
+2 NP -> 3 JJ NNS | SBAR 
+2 ADJP -> 5 RB JJ CC JJ | SBAR 
+2 ADJP -> 4 RB RB JJ | SBAR 
+2 ADJP -> 3 RB JJ | SBAR 
+2 ADJP -> 3 JJ RB | S 
+2 ADJP -> 3 ADJP S | SBAR 
+2 ADJP -> 3 ADJP S SBAR | 
+2 ADJP -> 2 VBN | SBAR 
+1 X -> 5 CC NP NP | SBAR . 
+1 VP -> 9 VP : | CC VP , CC VP , PP 
+1 VP -> 9 VP : CC | VP , CC VP , PP 
+1 VP -> 9 VP : CC VP , | CC VP , PP 
+1 VP -> 9 VP : CC VP , CC | VP , PP 
+1 VP -> 9 VP : CC VP , CC VP , | PP 
+1 VP -> 9 VP , VP , VP : | `` : NP 
+1 VP -> 8 VP : | VP : VP : CC VP 
+1 VP -> 8 VP : VP : | VP : CC VP 
+1 VP -> 8 VP : VP : VP : | CC VP 
+1 VP -> 8 VP , | VP , VP , CC VP 
+1 VP -> 8 VP , VP , | VP , CC VP 
+1 VP -> 8 VP , VP , VP , | CC VP 
+1 VP -> 8 VBP , VBP CC VBP PP , | PP 
+1 VP -> 8 VBN PP PP , '' | PP , PP 
+1 VP -> 8 VBN PP PP , '' PP , | PP 
+1 VP -> 8 VBN CC VBN , | CC ADVP VBN , 
+1 VP -> 8 VBN CC VBN , CC ADVP VBN , | 
+1 VP -> 7 VP , | VP , VP CC VP 
+1 VP -> 7 VP , VP , | VP CC VP 
+1 VP -> 7 VP , VP , VP | CC VP 
+1 VP -> 7 VBZ NP PP , PP , | PP 
+1 VP -> 7 VBZ ADVP PP , | S , S 
+1 VP -> 7 VBZ ADVP PP , S , | S 
+1 VP -> 7 VBN PRT PP | : ADVP , SBAR 
+1 VP -> 7 VBN PP PP , | S , PP 
+1 VP -> 7 VBN PP PP , S , | PP 
+1 VP -> 7 VBG NP PP PP , | SBAR , 
+1 VP -> 7 VBG NP PP PP , SBAR , | 
+1 VP -> 7 VBD PP PP | PP , '' S 
+1 VP -> 7 VBD PP PP PP , '' | S 
+1 VP -> 7 VBD NP PP PP PP , | S 
+1 VP -> 7 VBD NP PP , | PP , SBAR 
+1 VP -> 7 VBD NP PP , PP , | SBAR 
+1 VP -> 7 VBD NP PP , PP , | PP 
+1 VP -> 7 VBD NP NP , PP , | PP 
+1 VP -> 7 VBD NP , PP PP , | S 
+1 VP -> 7 VBD ADVP ADVP PP | PP , S 
+1 VP -> 7 VBD ADVP ADVP PP PP , | S 
+1 VP -> 7 VBD , ADVP , | SBAR , S 
+1 VP -> 7 VBD , ADVP , SBAR , | S 
+1 VP -> 7 VB NP PP , | SBAR , PP 
+1 VP -> 7 VB NP PP , | ADVP , PP 
+1 VP -> 7 VB NP PP , SBAR , | PP 
+1 VP -> 7 VB NP PP , ADVP , | PP 
+1 VP -> 6 `` VB NP '' PP | PP 
+1 VP -> 6 `` ADVP VB INTJ '' | SBAR 
+1 VP -> 6 `` ADVP VB '' NP PP | 
+1 VP -> 6 VP | CC VP , RB VP 
+1 VP -> 6 VP | CC VP , CC VP 
+1 VP -> 6 VP CC VP , | RB VP 
+1 VP -> 6 VP CC VP , | CC VP 
+1 VP -> 6 VP , | VP , ADVP VP 
+1 VP -> 6 VP , VP , | ADVP VP 
+1 VP -> 6 VP , ADVP , | CC VP 
+1 VP -> 6 VBZ RB ADVP ADJP SBAR | SBAR 
+1 VP -> 6 VBZ PRT , ADVP , | SBAR 
+1 VP -> 6 VBZ NP PP PP | : NP 
+1 VP -> 6 VBZ ADVP NP PP , | S 
+1 VP -> 6 VBP PRT NP PP , | S 
+1 VP -> 6 VBP NP NP | SBAR : NP 
+1 VP -> 6 VBP NP NP SBAR : | NP 
+1 VP -> 6 VBP , | CONJP VB , NP 
+1 VP -> 6 VBP , CONJP VB , | NP 
+1 VP -> 6 VBN PRT NP PP , | SBAR 
+1 VP -> 6 VBN PP , PP , | SBAR 
+1 VP -> 6 VBN NP PP , | PP , 
+1 VP -> 6 VBN NP PP , PP , | 
+1 VP -> 6 VBN ADVP | -LRB- PP -RRB- PP 
+1 VP -> 6 VBN ADVP PP | S , PP 
+1 VP -> 6 VBN ADVP PP S , | PP 
+1 VP -> 6 VBN ADVP -LRB- PP -RRB- | PP 
+1 VP -> 6 VBN ADJP PP , '' | PP 
+1 VP -> 6 VBG PP , | SBAR , S 
+1 VP -> 6 VBG PP , SBAR , | S 
+1 VP -> 6 VBG NP NP PP , | S 
+1 VP -> 6 VBD S , | S , PP 
+1 VP -> 6 VBD S , S , | PP 
+1 VP -> 6 VBD PRT | `` FRAG '' PRN 
+1 VP -> 6 VBD PRT PP : | `` SQ 
+1 VP -> 6 VBD PP , ADVP , | SBAR 
+1 VP -> 6 VBD NP PP PP PP | S 
+1 VP -> 6 VBD NP PP PP , | S 
+1 VP -> 6 VBD NP , | PP , S 
+1 VP -> 6 VBD NP , PP , | SBAR 
+1 VP -> 6 VBD NP , PP , | S 
+1 VP -> 6 VBD : | `` S , '' 
+1 VP -> 6 VBD , | `` S . '' 
+1 VP -> 6 VBD , ADVP : | `` S 
+1 VP -> 6 VB S , | PP , PP 
+1 VP -> 6 VB S , PP , | PP 
+1 VP -> 6 VB PRT NP PP , | PP 
+1 VP -> 6 VB NP PP , | SBAR , 
+1 VP -> 6 VB NP PP , SBAR , | 
+1 VP -> 6 VB NP , ADVP , | SBAR 
+1 VP -> 6 VB ADJP NP PP , | PP 
+1 VP -> 6 ADVP VBN PP PP , | PP 
+1 VP -> 6 ADVP VBD NP NP , | S 
+1 VP -> 5 `` VP '' | : VP 
+1 VP -> 5 `` VBN '' PP | ADVP 
+1 VP -> 5 `` VB '' NP | PP 
+1 VP -> 5 VP | CC VP PRN SBAR 
+1 VP -> 5 VP | CC VP NP S 
+1 VP -> 5 VP | CC VP CC VP 
+1 VP -> 5 VP CC VP | CC VP 
+1 VP -> 5 VP CC VP NP | S 
+1 VP -> 5 VP CC VP NP | PRN 
+1 VP -> 5 VP CC VP , | PP 
+1 VP -> 5 VP , | RB VP SBAR 
+1 VP -> 5 VP , RB VP | SBAR 
+1 VP -> 5 VP '' | CC `` VP 
+1 VP -> 5 VBZ | SBAR , '' S 
+1 VP -> 5 VBZ `` PP PP '' | 
+1 VP -> 5 VBZ SBAR , '' | S 
+1 VP -> 5 VBZ S PP , | S 
+1 VP -> 5 VBZ RB NP PP | SBAR 
+1 VP -> 5 VBZ PP : | `` S 
+1 VP -> 5 VBZ PP , | ADVP S 
+1 VP -> 5 VBZ NP | SBAR , S 
+1 VP -> 5 VBZ NP SBAR , | SBAR 
+1 VP -> 5 VBZ NP SBAR , | S 
+1 VP -> 5 VBZ NP PP , | PP 
+1 VP -> 5 VBZ NP NP , | S 
+1 VP -> 5 VBZ ADJP S , | SBAR 
+1 VP -> 5 VBP | SBAR PRN , ADVP 
+1 VP -> 5 VBP RB ADJP , | SBAR 
+1 VP -> 5 VBP PRT NP , | S 
+1 VP -> 5 VBP NP PP | : SBAR 
+1 VP -> 5 VBP NP PP , | SBAR 
+1 VP -> 5 VBP NP NP , | SBAR 
+1 VP -> 5 VBP NP ADVP , | S 
+1 VP -> 5 VBP ADVP NP , | SBAR 
+1 VP -> 5 VBP ADVP NP , | S 
+1 VP -> 5 VBP ADVP NP , | PP 
+1 VP -> 5 VBP ADVP ADJP , | PP 
+1 VP -> 5 VBN S , '' | S 
+1 VP -> 5 VBN PRT PP , | SBAR 
+1 VP -> 5 VBN PRT ADVP , | S 
+1 VP -> 5 VBN PP PP NP | S 
+1 VP -> 5 VBN NP SBAR , | S 
+1 VP -> 5 VBN NP PP PP | S 
+1 VP -> 5 VBN NP PP : | S 
+1 VP -> 5 VBN NP PP , | VP 
+1 VP -> 5 VBN NP PP , | SBAR 
+1 VP -> 5 VBN NP ADVP , | SBAR 
+1 VP -> 5 VBN NP , | ADVP SBAR 
+1 VP -> 5 VBN NP , '' | S 
+1 VP -> 5 VBN ADVP S , | PP 
+1 VP -> 5 VBN ADVP PP , | S 
+1 VP -> 5 VBG PRT PP NP | PRN 
+1 VP -> 5 VBG PRT PP , | S 
+1 VP -> 5 VBG PP PP , | S 
+1 VP -> 5 VBG NP NP , | SBAR 
+1 VP -> 5 VBG NP ADVP , | S 
+1 VP -> 5 VBG NP , | SBAR , 
+1 VP -> 5 VBG NP , SBAR , | 
+1 VP -> 5 VBG ADJP ADVP , | S 
+1 VP -> 5 VBD | SBAR , '' S 
+1 VP -> 5 VBD `` NP , | PP 
+1 VP -> 5 VBD `` ADVP '' | SBAR 
+1 VP -> 5 VBD UCP , '' | PP 
+1 VP -> 5 VBD SBAR , '' | S 
+1 VP -> 5 VBD S PP , | S 
+1 VP -> 5 VBD S NP , | S 
+1 VP -> 5 VBD RB ADJP | S NP 
+1 VP -> 5 VBD PRT NP PP | S 
+1 VP -> 5 VBD PRT NP , | PP 
+1 VP -> 5 VBD PP | SBAR , S 
+1 VP -> 5 VBD PP SBAR , | S 
+1 VP -> 5 VBD PP PP , | SBAR 
+1 VP -> 5 VBD PP PP , | S 
+1 VP -> 5 VBD PP NP PP | S 
+1 VP -> 5 VBD PP : | `` S 
+1 VP -> 5 VBD PP , | PP PP 
+1 VP -> 5 VBD NP | SBAR , PP 
+1 VP -> 5 VBD NP | S , SBAR 
+1 VP -> 5 VBD NP SBAR , | PP 
+1 VP -> 5 VBD NP S , | SBAR 
+1 VP -> 5 VBD NP S , | S 
+1 VP -> 5 VBD NP PRT | S PP 
+1 VP -> 5 VBD NP PP PP | VP 
+1 VP -> 5 VBD NP PP ADVP | S 
+1 VP -> 5 VBD NP PP , | VP 
+1 VP -> 5 VBD NP NP , | SBAR 
+1 VP -> 5 VBD NP ADVP , | S 
+1 VP -> 5 VBD NP : | `` S 
+1 VP -> 5 VBD CC VBD | : NP 
+1 VP -> 5 VBD ADVP | SBAR , SBAR 
+1 VP -> 5 VBD ADVP SBAR , | SBAR 
+1 VP -> 5 VBD ADVP S , | ADVP 
+1 VP -> 5 VBD ADVP PP , | S 
+1 VP -> 5 VBD ADVP NP , | S 
+1 VP -> 5 VBD ADVP NP , | PP 
+1 VP -> 5 VBD ADJP NP , | S 
+1 VP -> 5 VBD , PP , | PP 
+1 VP -> 5 VB `` NP '' | SBAR 
+1 VP -> 5 VB S , '' | SBAR 
+1 VP -> 5 VB PRT PP ADVP | PP 
+1 VP -> 5 VB PRT NP PP | SBAR 
+1 VP -> 5 VB PRT NP NP PP | 
+1 VP -> 5 VB PRT NP ADVP | S 
+1 VP -> 5 VB PRT NP ADVP S | 
+1 VP -> 5 VB PP PP , | SBAR 
+1 VP -> 5 VB PP NP , | PP 
+1 VP -> 5 VB NP | SBAR , PP 
+1 VP -> 5 VB NP | SBAR '' PP 
+1 VP -> 5 VB NP SBAR , | PP 
+1 VP -> 5 VB NP SBAR '' | PP 
+1 VP -> 5 VB NP PP | : SBAR 
+1 VP -> 5 VB NP PP PP | SBAR 
+1 VP -> 5 VB NP PP NP | SBAR 
+1 VP -> 5 VB NP NP PP | SBAR 
+1 VP -> 5 VB NP ADVP , | PP 
+1 VP -> 5 VB NP ADVP '' | SBAR 
+1 VP -> 5 VB NP ADVP '' | S 
+1 VP -> 5 VB ADVP | SBAR , SBAR 
+1 VP -> 5 VB ADVP SBAR , | SBAR 
+1 VP -> 5 VB ADVP PP , | SBAR 
+1 VP -> 5 VB ADJP , '' | PP 
+1 VP -> 5 VB , ADVP , | SBAR 
+1 VP -> 5 NN PP PP , | S 
+1 VP -> 5 MD | `` SBAR , VP 
+1 VP -> 5 MD `` SBAR , | VP 
+1 VP -> 5 MD RB `` VP '' | 
+1 VP -> 5 DT `` VP | CC VP 
+1 VP -> 5 CC VP | CC PRN VP 
+1 VP -> 5 ADVP VBZ NP PP | PP 
+1 VP -> 5 ADVP VBN S , | S 
+1 VP -> 5 ADVP VBN PP , | SBAR 
+1 VP -> 5 ADVP VBN PP , | S 
+1 VP -> 5 ADVP VBN PP , | PP 
+1 VP -> 5 ADVP VBD CC VBD PP | 
+1 VP -> 5 ADVP VB NP | : NP 
+1 VP -> 5 ADVP VB NP PP | PP 
+1 VP -> 4 VP | CC VP SBAR 
+1 VP -> 4 VP | CC PRN VP 
+1 VP -> 4 VP | CC : VP 
+1 VP -> 4 VP | : SBAR : 
+1 VP -> 4 VP CC VP | S 
+1 VP -> 4 VP : | CONJP VP 
+1 VP -> 4 VP : SBAR : | 
+1 VP -> 4 VP , | RB VP 
+1 VP -> 4 VP , | CONJP VP 
+1 VP -> 4 VP '' | CC VP 
+1 VP -> 4 VBZ | SBAR , SBAR 
+1 VP -> 4 VBZ | S : S 
+1 VP -> 4 VBZ `` ADJP '' | 
+1 VP -> 4 VBZ SBAR , | SBAR 
+1 VP -> 4 VBZ S , | S 
+1 VP -> 4 VBZ S , | PP 
+1 VP -> 4 VBZ RB NP | SBAR 
+1 VP -> 4 VBZ RB ADVP | S 
+1 VP -> 4 VBZ PRT | `` S 
+1 VP -> 4 VBZ PRT ADVP | SBAR 
+1 VP -> 4 VBZ PP | : NP 
+1 VP -> 4 VBZ PP , | S 
+1 VP -> 4 VBZ PP , | PP 
+1 VP -> 4 VBZ PP '' | SBAR 
+1 VP -> 4 VBZ NP | : NP 
+1 VP -> 4 VBZ NP PRN | PP 
+1 VP -> 4 VBZ NP PP | S 
+1 VP -> 4 VBZ NP ADVP | SBAR 
+1 VP -> 4 VBZ ADJP | `` SBAR 
+1 VP -> 4 VBZ ADJP ADVP | SBAR 
+1 VP -> 4 VBZ : | `` NP 
+1 VP -> 4 VBZ , | `` FRAG 
+1 VP -> 4 VBP | SBAR , ADVP 
+1 VP -> 4 VBP `` NP | SBAR 
+1 VP -> 4 VBP `` NP '' | 
+1 VP -> 4 VBP `` ADJP '' | 
+1 VP -> 4 VBP S , | SBAR 
+1 VP -> 4 VBP PRT NP | S 
+1 VP -> 4 VBP PRN PP | PRN 
+1 VP -> 4 VBP NP | : SBAR 
+1 VP -> 4 VBP NP | : S 
+1 VP -> 4 VBP NP | : PP 
+1 VP -> 4 VBP NP PP | S 
+1 VP -> 4 VBP NP NP | SBAR 
+1 VP -> 4 VBP ADVP PP | SBAR 
+1 VP -> 4 VBP ADVP , | S 
+1 VP -> 4 VBP ADJP | : PP 
+1 VP -> 4 VBP ADJP , | PP 
+1 VP -> 4 VBP , | `` SBAR 
+1 VP -> 4 VBN | SBAR , SBAR 
+1 VP -> 4 VBN | S PRN S 
+1 VP -> 4 VBN | S , SBAR 
+1 VP -> 4 VBN SBAR , | SBAR 
+1 VP -> 4 VBN S , | SBAR 
+1 VP -> 4 VBN S '' | PP 
+1 VP -> 4 VBN PRT PP | SBAR 
+1 VP -> 4 VBN PRT NP | SBAR 
+1 VP -> 4 VBN PRT NP | S 
+1 VP -> 4 VBN PRT '' | PP 
+1 VP -> 4 VBN NP | : SBAR 
+1 VP -> 4 VBN NP PP | SBAR 
+1 VP -> 4 VBN NP , | SBAR 
+1 VP -> 4 VBN NP , | PP 
+1 VP -> 4 VBN CC VBN | SBAR 
+1 VP -> 4 VBN ADVP PP | SBAR 
+1 VP -> 4 VBN ADVP , | SBAR 
+1 VP -> 4 VBN ADVP , | ADVP 
+1 VP -> 4 VBN ADJP , | PP 
+1 VP -> 4 VBN , | SBAR , 
+1 VP -> 4 VBN , SBAR , | 
+1 VP -> 4 VBG SBAR '' | PP 
+1 VP -> 4 VBG S PP | S 
+1 VP -> 4 VBG S NP | S 
+1 VP -> 4 VBG PRT PP | PP 
+1 VP -> 4 VBG PRT NP | UCP 
+1 VP -> 4 VBG PP PP | PP 
+1 VP -> 4 VBG PP ADVP PP | 
+1 VP -> 4 VBG PP '' | S 
+1 VP -> 4 VBG NP | S SBAR 
+1 VP -> 4 VBG NP S | SBAR 
+1 VP -> 4 VBG NP PP | PRN 
+1 VP -> 4 VBG NP NP | S 
+1 VP -> 4 VBG NP ADVP | S 
+1 VP -> 4 VBG NP ADVP | PRN 
+1 VP -> 4 VBG NP ADVP PRN | 
+1 VP -> 4 VBG NP : | ADVP 
+1 VP -> 4 VBG NP , | PP 
+1 VP -> 4 VBG ADVP NP | S 
+1 VP -> 4 VBG : | `` S 
+1 VP -> 4 VBD | SBAR , PP 
+1 VP -> 4 VBD `` NP '' | 
+1 VP -> 4 VBD `` ADJP '' | 
+1 VP -> 4 VBD SBAR , | PP 
+1 VP -> 4 VBD S | : SBAR 
+1 VP -> 4 VBD S PP | SBAR 
+1 VP -> 4 VBD S NP | SBAR 
+1 VP -> 4 VBD S ADVP | S 
+1 VP -> 4 VBD S , | SBAR 
+1 VP -> 4 VBD PRT PP | SBAR 
+1 VP -> 4 VBD PRT PP ADVP | 
+1 VP -> 4 VBD PRT NP | S 
+1 VP -> 4 VBD PRT ADVP | S 
+1 VP -> 4 VBD PP PP | S 
+1 VP -> 4 VBD PP NP | SBAR 
+1 VP -> 4 VBD PP ADVP | SBAR 
+1 VP -> 4 VBD NP | `` S 
+1 VP -> 4 VBD NP | SBAR SBAR 
+1 VP -> 4 VBD NP SBAR | SBAR 
+1 VP -> 4 VBD NP PRT | PP 
+1 VP -> 4 VBD NP PP | PRN 
+1 VP -> 4 VBD NP PP PRN | 
+1 VP -> 4 VBD ADVP PP | SBAR 
+1 VP -> 4 VBD ADVP PP | S 
+1 VP -> 4 VBD ADVP PP | PRN 
+1 VP -> 4 VBD ADVP PP | ADVP 
+1 VP -> 4 VBD ADVP PP PRN | 
+1 VP -> 4 VBD ADVP NP | S 
+1 VP -> 4 VBD ADVP , | S 
+1 VP -> 4 VBD ADJP PP | SBAR 
+1 VP -> 4 VB | SBAR , SBAR 
+1 VP -> 4 VB SBAR , | SBAR 
+1 VP -> 4 VB S | : SBAR 
+1 VP -> 4 VB S , | SBAR 
+1 VP -> 4 VB S , | S 
+1 VP -> 4 VB PRT PP | SBAR 
+1 VP -> 4 VB PRT NP | S 
+1 VP -> 4 VB PRT NP ADVP | 
+1 VP -> 4 VB PRT ADVP | SBAR 
+1 VP -> 4 VB PP PP | SBAR 
+1 VP -> 4 VB PP PP | S 
+1 VP -> 4 VB PP NP | SBAR 
+1 VP -> 4 VB PP , | PP 
+1 VP -> 4 VB NP | SBAR PP 
+1 VP -> 4 VB NP | : PP 
+1 VP -> 4 VB NP PP | VP 
+1 VP -> 4 VB NP ADVP | SBAR 
+1 VP -> 4 VB ADVP PP | S 
+1 VP -> 4 VB ADVP , | SBAR 
+1 VP -> 4 VB ADJP | ADVP SBAR 
+1 VP -> 4 VB ADJP | : S 
+1 VP -> 4 VB ADJP PP | SBAR 
+1 VP -> 4 VB ADJP , | S 
+1 VP -> 4 VB , | `` S 
+1 VP -> 4 S , | MD VP 
+1 VP -> 4 NN NP PRN PP | 
+1 VP -> 4 NN ADVP PP | S 
+1 VP -> 4 NN , '' | SBAR 
+1 VP -> 4 DT VP | CC VP 
+1 VP -> 4 ADVP VBN , | SBAR 
+1 VP -> 4 ADVP VBD NP | S 
+1 VP -> 4 ADVP VB NP | SBAR 
+1 VP -> 3 `` VBZ '' | 
+1 VP -> 3 VP | PRN NP 
+1 VP -> 3 VP | IN VP 
+1 VP -> 3 VP | : SBAR 
+1 VP -> 3 VP , | VP 
+1 VP -> 3 VP , | CC 
+1 VP -> 3 VBZ | SBAR PRN 
+1 VP -> 3 VBZ SBAR | PRN 
+1 VP -> 3 VBZ S | SBAR 
+1 VP -> 3 VBZ S | S 
+1 VP -> 3 VBZ PRT | SBAR 
+1 VP -> 3 VBZ NP | PRN 
+1 VP -> 3 VBZ ADJP | UCP 
+1 VP -> 3 VBP | SBAR SBAR 
+1 VP -> 3 VBP SBAR | SBAR 
+1 VP -> 3 VBP S | S 
+1 VP -> 3 VBP RB S | 
+1 VP -> 3 VBP PRT | S 
+1 VP -> 3 VBP ADJP | S 
+1 VP -> 3 VBN PRT | SBAR 
+1 VP -> 3 VBN ADVP | PRN 
+1 VP -> 3 VBN ADVP ADJP | 
+1 VP -> 3 VBN , | S 
+1 VP -> 3 VBN '' | S 
+1 VP -> 3 VBG | `` SBAR 
+1 VP -> 3 VBG | : PP 
+1 VP -> 3 VBG | : NP 
+1 VP -> 3 VBG ADVP | S 
+1 VP -> 3 VBD S | S 
+1 VP -> 3 VBD PRT | SBAR 
+1 VP -> 3 VBD ADVP | PRN 
+1 VP -> 3 VB PRT | SBAR 
+1 VP -> 3 VB NP | PRN 
+1 VP -> 3 VB NP PRN | 
+1 VP -> 3 NP VBD | SBAR 
+1 VP -> 3 NNS FRAG | PRN 
+1 VP -> 3 NN PP | SBAR 
+1 VP -> 3 NN PP PP | 
+1 VP -> 3 NN NP | S 
+1 VP -> 3 ADVP VBP S | 
+1 VP -> 3 ADVP VB | SBAR 
+1 VP -> 2 VP | PRN 
+1 VP -> 2 VP PRN | 
+1 VP -> 2 VBG | PRN 
+1 VP -> 2 VBG UCP | 
+1 VP -> 2 VB PRN | 
+1 VP -> 2 TO NP | 
+1 VP -> 2 POS ADJP | 
+1 VP -> 2 NP | SBAR 
+1 VP -> 2 NNS | SBAR 
+1 VP -> 2 JJ | SBAR 
+1 VP -> 2 JJ | S 
+1 VP -> 2 , | S 
+1 UCP -> 6 NP , | CC PP , ADJP 
+1 UCP -> 6 NP , CC PP , | ADJP 
+1 UCP -> 6 ADJP , | CC ADVP RB NP 
+1 UCP -> 5 S , | CC SINV . 
+1 UCP -> 5 RB S , | CC SBAR 
+1 UCP -> 4 PP , | CC S 
+1 UCP -> 4 NP , | CC VP 
+1 UCP -> 4 ADJP | CC `` VP 
+1 UCP -> 3 PP | CC SBAR 
+1 UCP -> 3 ADJP CC NP | 
+1 SQ -> 5 VBP NP ADVP VP . | 
+1 SQ -> 5 SBAR , | WHNP SQ . 
+1 SQ -> 5 SBAR , | VBZ NP VP 
+1 SQ -> 4 VBP NP VP . | 
+1 SQ -> 2 VP . | 
+1 SINV -> 9 `` S , '' | VP NP , SBAR . 
+1 SINV -> 9 `` S , '' VP NP , | SBAR . 
+1 SINV -> 8 `` S , '' | VP NP : . 
+1 SINV -> 8 `` S , '' | VP NP . '' 
+1 SINV -> 8 `` S , '' '' | VP NP . 
+1 SINV -> 8 VP NP : | `` S . '' '' 
+1 SINV -> 7 VP NP , | `` S . '' 
+1 SINV -> 7 S , '' '' | VP NP . 
+1 SINV -> 7 CC SBAR , | ADVP VP NP . 
+1 SINV -> 7 ADVP , | S , VP NP . 
+1 SINV -> 7 ADVP , S , | VP NP . 
+1 SINV -> 6 `` SBARQ '' | VP NP . 
+1 SINV -> 6 `` S '' | VP NP . 
+1 SINV -> 6 VP NP : | S . '' 
+1 SINV -> 6 VP NP , | `` S . 
+1 SINV -> 6 S , | VP NP PP . 
+1 SINV -> 6 ADVP VP NP , | SBAR . 
+1 SINV -> 6 ADVP ADVP VP NP | S . 
+1 SINV -> 5 SINV , | CC SINV . 
+1 SINV -> 5 FRAG , | VP NP . 
+1 SINV -> 4 S , | VP NP 
+1 SINV -> 4 ADJP VP NP | PP 
+1 SINV -> 2 VBZ NP | 
+1 SINV -> 10 `` S , '' | VP NP PP ADVP NP . 
+1 SBARQ -> 5 SBAR , | WHNP S . 
+1 SBARQ -> 4 WHADVP , | SQ . 
+1 SBARQ -> 2 WHADVP SQ | 
+1 SBAR -> 5 SBAR , | CC ADVP SBAR 
+1 SBAR -> 4 SBAR | : CC SBAR 
+1 SBAR -> 4 S , | CC S 
+1 SBAR -> 3 WHADVP , | S 
+1 SBAR -> 3 SBAR | : PRN 
+1 SBAR -> 3 SBAR : | SBAR 
+1 SBAR -> 3 SBAR , | SBAR 
+1 SBAR -> 3 QP | WHNP S 
+1 SBAR -> 3 QP WHNP S | 
+1 SBAR -> 3 IN S , | 
+1 S -> 9 `` S | CC S , CC S . '' 
+1 S -> 9 `` S CC S , | CC S . '' 
+1 S -> 9 `` PP , | SBAR , NP VP . '' 
+1 S -> 9 `` PP , SBAR , | NP VP . '' 
+1 S -> 9 S , S : | CC S CC S . 
+1 S -> 9 PP `` NP , '' | S , VP . 
+1 S -> 9 PP `` NP , '' S , | VP . 
+1 S -> 9 PP , | NP , PP , VP . '' 
+1 S -> 9 PP , S , | CC S , PP . 
+1 S -> 9 PP , S , CC S , | PP . 
+1 S -> 9 PP , PP , '' S | : S . 
+1 S -> 9 PP , NP , PP , | VP . '' 
+1 S -> 9 CC ADVP , NP VP , | CC S . 
+1 S -> 9 CC , | SBAR : `` NP VP . '' 
+1 S -> 9 CC , SBAR : | `` NP VP . '' 
+1 S -> 9 ADVP PRN NP VP , | CC NP VP . 
+1 S -> 9 ADVP , | SBAR , NP ADVP VP . '' 
+1 S -> 9 ADVP , SBAR , | NP ADVP VP . '' 
+1 S -> 8 `` S , | VP NP , S . 
+1 S -> 8 `` S , VP NP , | S . 
+1 S -> 8 `` S , '' | NP VP . '' 
+1 S -> 8 `` S , '' | NP ADVP VP . 
+1 S -> 8 `` S , '' '' | NP VP . 
+1 S -> 8 `` CC | SBAR , NP VP : . 
+1 S -> 8 `` CC SBAR , | NP VP : . 
+1 S -> 8 SBAR , | NP , ADVP , VP . 
+1 S -> 8 SBAR , NP , | ADVP , VP . 
+1 S -> 8 SBAR , NP , ADVP , | VP . 
+1 S -> 8 S , | S , NP ADVP VP . 
+1 S -> 8 S , | NP , PP , VP . 
+1 S -> 8 S , S | : CC S . '' 
+1 S -> 8 S , S , | NP ADVP VP . 
+1 S -> 8 PP PRN S | CC `` S . '' 
+1 S -> 8 PP , | `` S , CC S '' 
+1 S -> 8 PP , | SBAR , NP ADVP VP . 
+1 S -> 8 PP , | PRN S , CC S . 
+1 S -> 8 PP , | PRN , NP `` VP . 
+1 S -> 8 PP , `` S , | CC S '' 
+1 S -> 8 PP , `` S , CC S '' | 
+1 S -> 8 PP , SBAR , | NP ADVP VP . 
+1 S -> 8 PP , PRN | `` NP VP . '' 
+1 S -> 8 PP , PRN | S , CC S . 
+1 S -> 8 PP , PRN S , | CC S . 
+1 S -> 8 PP , PRN , | NP `` VP . 
+1 S -> 8 PP , NP , | PP , VP . 
+1 S -> 8 PP , NP , PP , | VP . 
+1 S -> 8 LST -RRB- S : | CC ADVP S . 
+1 S -> 8 CC | SBAR , PRN NP VP . '' 
+1 S -> 8 CC | SBAR , '' NP VP . '' 
+1 S -> 8 CC SBAR , '' | NP VP . '' 
+1 S -> 8 CC PP , S , | CC S . 
+1 S -> 8 CC ADVP , | PP , NP VP . 
+1 S -> 8 CC ADVP , S , | CC S . 
+1 S -> 8 CC ADVP , PP , | NP VP . 
+1 S -> 8 ADVP , | SBAR , NP ADVP VP . 
+1 S -> 8 ADVP , SBAR , | NP ADVP VP . 
+1 S -> 8 ADVP , PP , | SBAR NP VP . 
+1 S -> 8 ADVP , PP , | NP VP . '' 
+1 S -> 8 ADVP , PP , SBAR | NP VP . 
+1 S -> 8 ADVP , PP , '' | NP VP . 
+1 S -> 8 : `` S , '' | NP VP . 
+1 S -> 7 `` SBAR , '' | NP VP . 
+1 S -> 7 `` NP , | NP VP . '' 
+1 S -> 7 `` FRAG , '' | NP VP . 
+1 S -> 7 `` ADVP S , | S . '' 
+1 S -> 7 SBAR , | S , CC S . 
+1 S -> 7 SBAR , | RB NP VP . '' 
+1 S -> 7 SBAR , | PRN NP ADVP VP . 
+1 S -> 7 SBAR , | PRN ADVP NP VP . 
+1 S -> 7 SBAR , | ADVP NP VP . '' 
+1 S -> 7 SBAR , S , | CC S . 
+1 S -> 7 SBAR , PRN | NP ADVP VP . 
+1 S -> 7 SBAR , PRN | ADVP NP VP . 
+1 S -> 7 S : | S : CC S . 
+1 S -> 7 S : | CC S , CC S 
+1 S -> 7 S : S : | CC S . 
+1 S -> 7 S : CC S , | CC S 
+1 S -> 7 S , | CC S : S . 
+1 S -> 7 S , | CC S , PP . 
+1 S -> 7 S , CC S : | S . 
+1 S -> 7 S , CC S , | PP . 
+1 S -> 7 S , ADVP , | NP VP . 
+1 S -> 7 S , ADVP , | CC S . 
+1 S -> 7 S , '' | NP NP VP . 
+1 S -> 7 PP , | S PRN CC S . 
+1 S -> 7 PP , S | CC S PP . 
+1 S -> 7 PP , S | CC S . '' 
+1 S -> 7 PP , '' '' | NP VP . 
+1 S -> 7 NP ADVP VP , | CC S . 
+1 S -> 7 NP , | SBAR , NP VP . 
+1 S -> 7 NP , | S , VP . '' 
+1 S -> 7 NP , S , | VP . '' 
+1 S -> 7 CC | SBAR , PRN NP VP . 
+1 S -> 7 CC SBAR , | PRN NP VP . 
+1 S -> 7 CC SBAR , PRN | NP VP . 
+1 S -> 7 CC PP | PRN NP VP . '' 
+1 S -> 7 CC PP , | PRN NP VP . 
+1 S -> 7 CC PP , PRN | NP VP . 
+1 S -> 7 CC NP , | S , VP . 
+1 S -> 7 CC NP , S , | VP . 
+1 S -> 7 ADVP , | PRN `` NP VP . 
+1 S -> 7 ADVP , | PP , NP `` VP 
+1 S -> 7 ADVP , | ADVP , NP VP . 
+1 S -> 7 ADVP , S | CC S . '' 
+1 S -> 7 ADVP , PRN | `` NP VP . 
+1 S -> 7 ADVP , PP , | NP `` VP 
+1 S -> 7 ADVP , ADVP , | NP VP . 
+1 S -> 7 -LRB- S , | NP VP . -RRB- 
+1 S -> 6 `` SQ '' | NP VP . 
+1 S -> 6 `` SBARQ '' | NP VP . 
+1 S -> 6 `` S | : S . '' 
+1 S -> 6 `` S , | VP NP . 
+1 S -> 6 `` S , '' | NP VP 
+1 S -> 6 SQ . '' | NP VP . 
+1 S -> 6 SINV , '' | NP VP . 
+1 S -> 6 SBAR , | S CC S . 
+1 S -> 6 SBAR , | S , S . 
+1 S -> 6 SBAR , | PRN NP VP . 
+1 S -> 6 SBAR , | NP `` VP '' 
+1 S -> 6 SBAR , | NP NP VP . 
+1 S -> 6 SBAR , S | CC S . 
+1 S -> 6 SBAR , S , | S . 
+1 S -> 6 SBAR , PRN | NP VP . 
+1 S -> 6 SBAR , '' | NP VP . 
+1 S -> 6 S | CC S CC S . 
+1 S -> 6 S | CC S , PP . 
+1 S -> 6 S CC S | CC S . 
+1 S -> 6 S CC S , | PP . 
+1 S -> 6 S : | `` S . '' 
+1 S -> 6 S : | S , CC S 
+1 S -> 6 S : S , | CC S 
+1 S -> 6 S , | NP VP . '' 
+1 S -> 6 S , | NP NP VP . 
+1 S -> 6 S , | NP ADVP VP . 
+1 S -> 6 S , | CC PRN S . 
+1 S -> 6 S , | CC ADVP S . 
+1 S -> 6 S , | ADVP S . '' 
+1 S -> 6 S , CC | PRN S . 
+1 S -> 6 S , CC PRN | S . 
+1 S -> 6 S , '' | CC `` S 
+1 S -> 6 S , '' | CC RB S 
+1 S -> 6 PP PRN | `` NP VP . 
+1 S -> 6 PP , | SBAR NP VP . 
+1 S -> 6 PP , | PRN NP VP . 
+1 S -> 6 PP , S : | S . 
+1 S -> 6 PP , PRN | NP VP . 
+1 S -> 6 NP VP , | CC VP . 
+1 S -> 6 NP PP , | NP VP . 
+1 S -> 6 LST SBAR , | NP VP . 
+1 S -> 6 CONJP SINV , | CC S . 
+1 S -> 6 CC | SBAR , NP ADVP VP 
+1 S -> 6 CC | S PRN NP VP . 
+1 S -> 6 CC SBAR , | NP ADVP VP 
+1 S -> 6 CC S , | IN S . 
+1 S -> 6 CC PP S | CC S . 
+1 S -> 6 ADVP SINV , | CC S . 
+1 S -> 6 ADVP PRN , | NP VP . 
+1 S -> 6 ADVP , S , | CC S 
+1 S -> 6 , '' | SBAR , VP . 
+1 S -> 6 , '' SBAR , | VP . 
+1 S -> 5 `` S | CC S . 
+1 S -> 5 `` S , | CC SQ 
+1 S -> 5 SBAR | S : CC S 
+1 S -> 5 SBAR S | : CC S 
+1 S -> 5 SBAR , | S NP VP 
+1 S -> 5 SBAR , | S CC S 
+1 S -> 5 SBAR , | NP VP : 
+1 S -> 5 SBAR , S | NP VP 
+1 S -> 5 SBAR , S | CC S 
+1 S -> 5 SBAR , : | NP VP 
+1 S -> 5 S | CC S SBAR . 
+1 S -> 5 S | CC S : . 
+1 S -> 5 S PRN : | S . 
+1 S -> 5 S CC S | SBAR . 
+1 S -> 5 S : | `` S . 
+1 S -> 5 S : | S : S 
+1 S -> 5 S : | S : . 
+1 S -> 5 S : S : | S 
+1 S -> 5 S . | NP VP . 
+1 S -> 5 S , | `` NP VP 
+1 S -> 5 S , | `` CC S 
+1 S -> 5 S , | CC SQ . 
+1 S -> 5 S , | CC SINV . 
+1 S -> 5 S , | CC ADVP S 
+1 S -> 5 PRN | PP , NP VP 
+1 S -> 5 PRN PP , | NP VP 
+1 S -> 5 PP , | NP `` VP 
+1 S -> 5 NP | : S : VP 
+1 S -> 5 NP | : PP : VP 
+1 S -> 5 NP : S : | VP 
+1 S -> 5 NP : PP | : VP 
+1 S -> 5 NP , | S VP . 
+1 S -> 5 NP , | PRN VP . 
+1 S -> 5 NP , S | VP . 
+1 S -> 5 NP , PRN | VP . 
+1 S -> 5 LST S : | S . 
+1 S -> 5 INTJ , S | CC S 
+1 S -> 5 ADVP | : NP VP . 
+1 S -> 4 SBARQ | NP VP . 
+1 S -> 4 SBAR : | NP VP 
+1 S -> 4 SBAR , | VP , 
+1 S -> 4 SBAR , | S VP 
+1 S -> 4 SBAR , VP , | 
+1 S -> 4 S | NP VP . 
+1 S -> 4 S : | `` S 
+1 S -> 4 S , | RB SBARQ 
+1 S -> 4 S , | IN S 
+1 S -> 4 PP S | CC S 
+1 S -> 4 PP : | NP VP 
+1 S -> 4 NP | SBAR VP . 
+1 S -> 4 NP VP : | SBARQ 
+1 S -> 4 NP VP , | SBAR 
+1 S -> 4 NP VP , ADVP | 
+1 S -> 4 NP VP , '' | 
+1 S -> 4 NP SBAR | VP . 
+1 S -> 4 NP PP , | SBAR 
+1 S -> 4 NP : | NP . 
+1 S -> 4 NP , | VP . 
+1 S -> 4 CC S | CC S 
+1 S -> 4 ADJP , | NP VP 
+1 S -> 3 SBAR , | VP 
+1 S -> 3 S | PRN . 
+1 S -> 3 S | NP VP 
+1 S -> 3 S NP VP | 
+1 S -> 3 NP | PRN VP 
+1 S -> 3 NP VP , | 
+1 S -> 3 NP NP | S 
+1 S -> 3 NP , | VP 
+1 S -> 2 ADJP | SBAR 
+1 S -> 13 S : | S : S : S : S , CC S . 
+1 S -> 13 S : S : | S : S : S , CC S . 
+1 S -> 13 S : S : S : | S : S , CC S . 
+1 S -> 13 S : S : S : S : | S , CC S . 
+1 S -> 13 S : S : S : S : S , | CC S . 
+1 S -> 13 CC , `` ADVP , '' | S , `` NP VP . '' 
+1 S -> 13 CC , `` ADVP , '' S , | `` NP VP . '' 
+1 S -> 11 -LRB- PP , PP , S , | CC S . -RRB- 
+1 S -> 10 SBAR , | S , S , S , PP . 
+1 S -> 10 SBAR , S , | S , S , PP . 
+1 S -> 10 SBAR , S , S , | S , PP . 
+1 S -> 10 SBAR , S , S , S , | PP . 
+1 S -> 10 S , | S , S , S CC S . 
+1 S -> 10 S , S , | S , S CC S . 
+1 S -> 10 S , S , S , | S CC S . 
+1 S -> 10 S , S , S , S | CC S . 
+1 S -> 10 CC `` NP , '' | S , '' VP . 
+1 S -> 10 CC `` NP , '' S , '' | VP . 
+1 S -> 10 CC , | SBAR , S , CC S . '' 
+1 S -> 10 CC , SBAR , | S , CC S . '' 
+1 S -> 10 CC , SBAR , S , | CC S . '' 
+1 S -> 10 ADVP , S , | S , S CC S . 
+1 S -> 10 ADVP , S , S , | S CC S . 
+1 S -> 10 ADVP , S , S , S | CC S . 
+1 QP -> 6 IN CC IN # CD CD | 
+1 QP -> 3 $ CD NNS | 
+1 QP -> 3 # , CD | 
+1 PRN -> 7 -LRB- CC , ADVP , NP -RRB- | 
+1 PRN -> 5 -LRB- INTJ , PP -RRB- | 
+1 PRN -> 4 : RB ADJP : | 
+1 PRN -> 4 : NP | SBAR : 
+1 PRN -> 4 : NP SBAR : | 
+1 PRN -> 4 : CC VP | : 
+1 PRN -> 4 : ADVP VP : | 
+1 PRN -> 4 -LRB- CC VP -RRB- | 
+1 PRN -> 4 '' | S , `` 
+1 PRN -> 4 '' S , | `` 
+1 PRN -> 3 : VP : | 
+1 PRN -> 3 : SBAR : | 
+1 PRN -> 3 : FRAG : | 
+1 PRN -> 3 : ADVP : | 
+1 PRN -> 3 -LRB- NAC -RRB- | 
+1 PRN -> 2 SINV , | 
+1 PP -> 9 ADVP PP , | ADVP PP , CC ADVP PP 
+1 PP -> 4 PP | : CC PP 
+1 PP -> 4 PP CC ADVP PP | 
+1 PP -> 4 PP , | CONJP PP 
+1 PP -> 4 PP , NP , | 
+1 PP -> 3 TO NP , | 
+1 PP -> 3 IN NP | SBAR 
+1 NX -> 5 `` '' CC `` '' | 
+1 NX -> 3 JJ JJ NNS | 
+1 NX -> 3 ADJP NN NNS | 
+1 NX -> 3 : NP : | 
+1 NX -> 2 NP | SBAR 
+1 NX -> 2 NP SBAR | 
+1 NX -> 2 JJR NN | 
+1 NP -> 8 NP | VP VP , '' VP , SBAR 
+1 NP -> 8 NP VP | VP , '' VP , SBAR 
+1 NP -> 8 NP VP VP , '' | VP , SBAR 
+1 NP -> 8 NP VP VP , '' VP , | SBAR 
+1 NP -> 8 NP , NP , NP CC NP , | 
+1 NP -> 8 NN NN NN NNP NNP NNP | PRN NNS 
+1 NP -> 8 NN NN NN NNP NNP NNP PRN | NNS 
+1 NP -> 8 NN NN NN NNP NNP NNP PRN NNS | 
+1 NP -> 8 DT NN , NN CC NN | PRN NN 
+1 NP -> 8 DT NN , NN CC NN PRN | NN 
+1 NP -> 7 `` NP '' | PRN , SBAR , 
+1 NP -> 7 `` NP '' PRN , | SBAR , 
+1 NP -> 7 `` NP '' PRN , SBAR , | 
+1 NP -> 7 NP | : `` NP , '' SBAR 
+1 NP -> 7 NP PP , PP PP , | VP 
+1 NP -> 7 NP : | NP : NP CC NP 
+1 NP -> 7 NP : `` NP , '' | SBAR 
+1 NP -> 7 NP , NP , | PP , PP 
+1 NP -> 7 NP , NP , PP , | PP 
+1 NP -> 7 NP , '' | PRN , `` NP 
+1 NP -> 7 NNP NNP NNP NNP CC NNP NNP | 
+1 NP -> 7 JJ | -LRB- JJ NN -RRB- JJ NN 
+1 NP -> 7 JJ -LRB- JJ NN -RRB- | JJ NN 
+1 NP -> 7 DT `` JJ JJ NN '' NN | 
+1 NP -> 6 `` NP , '' | SBAR , 
+1 NP -> 6 `` NP , '' SBAR , | 
+1 NP -> 6 `` JJ '' NN NN NNS | 
+1 NP -> 6 `` DT JJ NN '' | S 
+1 NP -> 6 RB DT JJ JJ NN NN | 
+1 NP -> 6 NP | PRN , NP , PP 
+1 NP -> 6 NP PRN , | NP , PP 
+1 NP -> 6 NP PP PP PP | VP . 
+1 NP -> 6 NP PP PP PP , | PP 
+1 NP -> 6 NP PP PP , | SBAR , 
+1 NP -> 6 NP PP PP , SBAR , | 
+1 NP -> 6 NP PP , | VP , PP 
+1 NP -> 6 NP PP , VP , | PP 
+1 NP -> 6 NP PP , ADJP , | SBAR 
+1 NP -> 6 NP JJ NNP CD NNS NNS | 
+1 NP -> 6 NP , NP CC NP , | 
+1 NP -> 6 NP , NP , | VP , 
+1 NP -> 6 NP , NP , VP , | 
+1 NP -> 6 NP , NP , NP , | 
+1 NP -> 6 NP , CC NP , | S 
+1 NP -> 6 NP , CC NP , | PP 
+1 NP -> 6 NN , NN CC NN NNS | 
+1 NP -> 6 JJ , ADJP , JJ NNS | 
+1 NP -> 6 DT `` JJ JJ NN '' | 
+1 NP -> 6 DT `` ADJP NN | SBAR '' 
+1 NP -> 6 DT `` ADJP NN SBAR '' | 
+1 NP -> 6 DT `` ADJP '' NN NN | 
+1 NP -> 6 DT NNS , NNS CC NNS | 
+1 NP -> 6 DT NN NNS CC NN NNS | 
+1 NP -> 6 DT JJ `` NN JJ '' | 
+1 NP -> 6 DT JJ `` NN '' NN | 
+1 NP -> 6 DT JJ NNP NNP | PRN NN 
+1 NP -> 6 DT JJ NNP NNP PRN | NN 
+1 NP -> 6 DT JJ JJ FW FW NN | 
+1 NP -> 5 `` NP , '' | VP 
+1 NP -> 5 `` JJ NNS '' | S 
+1 NP -> 5 SBAR , | CC ADVP NP 
+1 NP -> 5 PRP$ JJ NNS CC NNS | 
+1 NP -> 5 PRP$ JJ JJ JJ NN | 
+1 NP -> 5 PRP$ CC PRP$ JJ NN | 
+1 NP -> 5 PRP JJ JJ JJ NN | 
+1 NP -> 5 NP | : PP : SBAR 
+1 NP -> 5 NP | : NP , SBAR 
+1 NP -> 5 NP | : CC NP : 
+1 NP -> 5 NP | -LRB- NP PRN -RRB- 
+1 NP -> 5 NP | -LRB- CC NP -RRB- 
+1 NP -> 5 NP `` S '' | PRN 
+1 NP -> 5 NP RRC , | VP , 
+1 NP -> 5 NP RRC , VP , | 
+1 NP -> 5 NP PP | S , VP 
+1 NP -> 5 NP PP | PRN , NP 
+1 NP -> 5 NP PP S , | VP 
+1 NP -> 5 NP PP PRN , | NP 
+1 NP -> 5 NP PP PP | VP . 
+1 NP -> 5 NP PP PP PP | SBAR 
+1 NP -> 5 NP PP : SBAR : | 
+1 NP -> 5 NP NP PP , | PP 
+1 NP -> 5 NP CD JJ NN NNS | 
+1 NP -> 5 NP ADJP JJ JJ NNS | 
+1 NP -> 5 NP : PP : | SBAR 
+1 NP -> 5 NP : NP , | SBAR 
+1 NP -> 5 NP : CC NP : | 
+1 NP -> 5 NP -LRB- NP | PRN -RRB- 
+1 NP -> 5 NP -LRB- CC NP -RRB- | 
+1 NP -> 5 NP , | VP , SBAR 
+1 NP -> 5 NP , | VP , '' 
+1 NP -> 5 NP , | RB NP , 
+1 NP -> 5 NP , VP , | SBAR 
+1 NP -> 5 NP , VP , '' | 
+1 NP -> 5 NP , NP , | VP 
+1 NP -> 5 NP , NP , '' | 
+1 NP -> 5 NP , ADJP , | S 
+1 NP -> 5 NP , '' | SBAR , 
+1 NP -> 5 NP , '' SBAR , | 
+1 NP -> 5 NNP NN NN NN NNS | 
+1 NP -> 5 NNP CC NNP NN NNP | 
+1 NP -> 5 JJ `` NN NNS '' | 
+1 NP -> 5 DT `` JJ NNS '' | 
+1 NP -> 5 DT VBG , JJ NN | 
+1 NP -> 5 DT RB JJ NN NNS | 
+1 NP -> 5 DT NN NNP NNP NN | 
+1 NP -> 5 DT NN CC NNS NN | 
+1 NP -> 5 DT JJ | PRN JJ NN 
+1 NP -> 5 DT JJ PRN | JJ NN 
+1 NP -> 5 DT JJ NN NN | SBAR 
+1 NP -> 5 DT JJ JJ NN | SBAR 
+1 NP -> 5 DT JJ ADJP NN | S 
+1 NP -> 5 DT JJ ADJP NN NN | 
+1 NP -> 5 DT CD NN NNS NN | 
+1 NP -> 5 DT CD NN NNP NNP | 
+1 NP -> 5 DT CD JJS NN NNS | 
+1 NP -> 5 DT ADJP NN NN | S 
+1 NP -> 5 DT ADJP , NNP NNS | 
+1 NP -> 5 : NP , | VP . 
+1 NP -> 4 `` NP , | SBAR 
+1 NP -> 4 `` NP '' | SBAR 
+1 NP -> 4 RB CD CC CD | 
+1 NP -> 4 QP JJ CD NNS | 
+1 NP -> 4 PRP$ VBN NN | S 
+1 NP -> 4 PRP$ RB JJ NN | 
+1 NP -> 4 PRP$ NN NNS NNS | 
+1 NP -> 4 PRP$ ADJP NN | S 
+1 NP -> 4 NP | VP : S 
+1 NP -> 4 NP | VP , NP 
+1 NP -> 4 NP | SBAR : SBAR 
+1 NP -> 4 NP | PRN TO NP 
+1 NP -> 4 NP | PP : SBAR 
+1 NP -> 4 NP | : VP : 
+1 NP -> 4 NP | : PP : 
+1 NP -> 4 NP | -LRB- VP -RRB- 
+1 NP -> 4 NP | -LRB- SBAR -RRB- 
+1 NP -> 4 NP `` PP '' | 
+1 NP -> 4 NP VP : | S 
+1 NP -> 4 NP SBAR : | SBAR 
+1 NP -> 4 NP RB POS NN | 
+1 NP -> 4 NP PRN | TO NP 
+1 NP -> 4 NP PRN TO NP | 
+1 NP -> 4 NP PP | VP PP 
+1 NP -> 4 NP PP | SBAR : 
+1 NP -> 4 NP PP | PRN PP 
+1 NP -> 4 NP PP | : SBAR 
+1 NP -> 4 NP PP | : ADJP 
+1 NP -> 4 NP PP VP | PP 
+1 NP -> 4 NP PP PRN | PP 
+1 NP -> 4 NP PP PP | S 
+1 NP -> 4 NP PP NP | SBAR 
+1 NP -> 4 NP PP NP SBAR | 
+1 NP -> 4 NP PP ADVP | SBAR 
+1 NP -> 4 NP NP PP | SBAR 
+1 NP -> 4 NP NN NN | S 
+1 NP -> 4 NP JJS NN RB | 
+1 NP -> 4 NP JJS JJ NN | 
+1 NP -> 4 NP JJ NNS | S 
+1 NP -> 4 NP JJ NN | PP 
+1 NP -> 4 NP ADJP , | SBAR 
+1 NP -> 4 NP : VP : | 
+1 NP -> 4 NP : PP : | 
+1 NP -> 4 NP . | : NP 
+1 NP -> 4 NP , | `` S 
+1 NP -> 4 NP , NP | SBAR 
+1 NP -> 4 NP , NP PRN | 
+1 NP -> 4 NNP NNP NNP IN | 
+1 NP -> 4 NNP NNP NNP . | 
+1 NP -> 4 NNP NN VBN NNS | 
+1 NP -> 4 NNP JJ VBN NNS | 
+1 NP -> 4 NNP JJ JJ NNS | 
+1 NP -> 4 NNP CC NNP NN | 
+1 NP -> 4 NN CC NNS NN | 
+1 NP -> 4 NAC NNP NNP NNP | 
+1 NP -> 4 JJR JJ NN NN | 
+1 NP -> 4 JJ NNS CC VBZ | 
+1 NP -> 4 JJ , ADJP NN | 
+1 NP -> 4 DT QP NN NNS | 
+1 NP -> 4 DT NNS NNS NN | 
+1 NP -> 4 DT NNS NN NNS | 
+1 NP -> 4 DT NNP NN | S 
+1 NP -> 4 DT NN '' | SBAR 
+1 NP -> 4 DT JJ | PRN NN 
+1 NP -> 4 DT JJ PRN | NN 
+1 NP -> 4 DT JJ NNS | S 
+1 NP -> 4 DT JJ NNS : | 
+1 NP -> 4 DT JJ NNP NNS | 
+1 NP -> 4 DT JJ NN PP | 
+1 NP -> 4 DT JJ CD CD | 
+1 NP -> 4 DT FW FW FW | 
+1 NP -> 4 DT CD VBG NNS | 
+1 NP -> 4 DT ADJP | PRN NN 
+1 NP -> 4 DT ADJP `` '' | 
+1 NP -> 4 DT ADJP PRN | NN 
+1 NP -> 4 DT ADJP NNP NNS | 
+1 NP -> 4 DT ADJP NN NNS | 
+1 NP -> 4 DT ADJP ADJP NN | 
+1 NP -> 4 CD RB ADJP NN | 
+1 NP -> 4 CD JJ NP NNS | 
+1 NP -> 4 CD JJ NN | SBAR 
+1 NP -> 4 CD JJ NN SBAR | 
+1 NP -> 4 ADJP NN PRN NNS | 
+1 NP -> 3 RB RB | SBAR 
+1 NP -> 3 RB NP NN | 
+1 NP -> 3 QP CD NNS | 
+1 NP -> 3 PRP$ NN RB | 
+1 NP -> 3 PRP$ CD NN | 
+1 NP -> 3 NP | VP SBAR 
+1 NP -> 3 NP | VP , 
+1 NP -> 3 NP | SBAR SBAR 
+1 NP -> 3 NP | PRN PP 
+1 NP -> 3 NP | PRN NNS 
+1 NP -> 3 NP | PRN '' 
+1 NP -> 3 NP | : VP 
+1 NP -> 3 NP | : PP 
+1 NP -> 3 NP | : ADJP 
+1 NP -> 3 NP SBAR | SBAR 
+1 NP -> 3 NP PRN | PRN 
+1 NP -> 3 NP PRN | NNS 
+1 NP -> 3 NP PRN '' | 
+1 NP -> 3 NP PP | UCP 
+1 NP -> 3 NP NP | VP 
+1 NP -> 3 NP NNS | SBAR 
+1 NP -> 3 NP NNS S | 
+1 NP -> 3 NP NN | PP 
+1 NP -> 3 NP ADVP | SBAR 
+1 NP -> 3 NNP NNS | S 
+1 NP -> 3 NN NNS | SBAR 
+1 NP -> 3 NN NNS | S 
+1 NP -> 3 NN NNS S | 
+1 NP -> 3 JJR JJ NN | 
+1 NP -> 3 JJ NNS | S 
+1 NP -> 3 IN NNP CD | 
+1 NP -> 3 DT `` '' | 
+1 NP -> 3 DT UCP NNP | 
+1 NP -> 3 DT NNS | SBAR 
+1 NP -> 3 DT NAC JJ | 
+1 NP -> 3 ADVP JJ NNS | 
+1 NP -> 3 , | PP , 
+1 NP -> 3 , PP , | 
+1 NP -> 2 S | PRN 
+1 NP -> 2 S PRN | 
+1 NP -> 2 RB VBZ | 
+1 NP -> 2 JJ | S 
+1 NP -> 2 CD NNPS | 
+1 NP -> 17 NP , NP , | NP , NP , NP , NP , NP , NP CC NP 
+1 NP -> 14 NP , NP , NP , NP , NP , NP CC NP , | 
+1 NP -> 11 NP , NP , NP , NP , CC NP , | 
+1 NP -> 10 DT JJ NN , NN , NN CC NNS NN | 
+1 INTJ -> 4 UH . | UH . 
+1 FRAG -> 7 CC ADVP , | SBAR , PP . 
+1 FRAG -> 7 CC ADVP , SBAR , | PP . 
+1 FRAG -> 6 SBAR , | INTJ . VP . 
+1 FRAG -> 6 SBAR , INTJ . | VP . 
+1 FRAG -> 4 PRN | `` INTJ . 
+1 FRAG -> 3 SBAR , | NP 
+1 FRAG -> 3 NP : | S 
+1 FRAG -> 2 NP | S 
+1 ADVP -> 6 RB CC | PRN `` RB '' 
+1 ADVP -> 6 RB CC PRN | `` RB '' 
+1 ADVP -> 5 ADVP , CC ADVP , | 
+1 ADVP -> 4 RB RBR CC RBR | 
+1 ADVP -> 4 IN CC IN PP | 
+1 ADVP -> 3 RB DT NN | 
+1 ADVP -> 3 PDT DT JJ | 
+1 ADVP -> 3 ADVP PP PP | 
+1 ADVP -> 2 RB | S 
+1 ADJP -> 7 ADJP | : ADJP , ADJP , ADJP 
+1 ADJP -> 6 JJ , RB JJ , SBAR | 
+1 ADJP -> 5 `` JJ '' RB | S 
+1 ADJP -> 5 CC RB JJ CC JJ | 
+1 ADJP -> 4 RB VBN PRT | SBAR 
+1 ADJP -> 4 RB JJ S | SBAR 
+1 ADJP -> 4 RB JJ PP | PP 
+1 ADJP -> 4 ADJP PP PP | SBAR 
+1 ADJP -> 4 ADJP PP , | SBAR 
+1 ADJP -> 3 QP RB JJ | 
+1 ADJP -> 3 JJ | : PP 
+1 ADJP -> 3 JJ PRN | SBAR 
+1 ADJP -> 3 ADJP PP | SBAR 
+1 ADJP -> 2 VBN SBAR | 
+1 ADJP -> 2 VBN NP | 
+1 ADJP -> 2 RB NP | 
+1 ADJP -> 2 QP NNS | 
+1 ADJP -> 2 NN PP | 
+1 ADJP -> 2 JJR S | 
