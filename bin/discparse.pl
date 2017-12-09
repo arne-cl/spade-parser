@@ -14,7 +14,7 @@ system(@args) == 0
     or die "system @args failed: $?";
 
 print STDERR "Sentence-level discourse parsing in progress...\n";
-$dpd = `dependencies $argv $argv.edu.fmt`;
+$dpd = `./dependencies $argv $argv.edu.fmt`;
 if( $dpd eq "" ){
     print STDERR "Error (no ouput): dependencies $argv $argv.edu\n" and exit;
 }

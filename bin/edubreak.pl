@@ -5,7 +5,7 @@ if( scalar(@ARGV)!= 1 && scalar(@ARGV)!= 2 ){
 }
 
 $outfile = 0;
-$output = `edubreak $ARGV[0]`;
+$output = `./edubreak $ARGV[0]`;
 if( $output eq "" ){
     print STDERR "Error (no ouput): edubreak $ARGV[0]\n" and exit;
 }
@@ -19,7 +19,8 @@ else{
     print STDERR "Done.\n";
 }
 
-sub ruleBasedFix(){
+sub ruleBasedFix
+{
     my ($output) = @_;
 
     @output = split "\n", $output;

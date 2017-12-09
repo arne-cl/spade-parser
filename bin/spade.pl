@@ -3,6 +3,10 @@
 $CHP = "your-path-to-Charniak's-parser-directory";
 #$CHP = "/nfs/isd/radu/Work/Parsing/CharniakParser/";
 
+use Cwd qw();
+my $current_dir = Cwd::abs_path();
+print "$current_dir\n";
+
 if( scalar(@ARGV)!= 1 && scalar(@ARGV)!= 2 ){
     print STDERR "Usage: spade.pl [-seg-only] one-sent-per-line-file\n";
 }
@@ -22,22 +26,32 @@ else{
     $argv = shift;
     if( $argv eq "-seg-only" ){
 	$argv = shift;
-	@args = ("$CHP/parseIt $CHP/DATA/ $argv > $argv.chp");
+
+        chdir($CHP) or die "cannot change to Charniak parser directory: $!\n";
+
+	@args = ("./parse.sh $argv > $argv.chp");
 	print STDERR "Charniak's syntactic parser in progress...\n";
 	system(@args) == 0
 	    or die "system @args failed: $?";
 	print STDERR "Done.\n";
+
+        chdir($current_dir) or die "cannot change to back to spade's bin directory: $!\n";
 
 	@args = ("perl", "edubreak.pl", "$argv.chp");
 	system(@args) == 0
 	    or die "system @args failed: $?";
     }
     else{
-	@args = ("$CHP/parseIt $CHP/DATA/ $argv > $argv.chp");
+	@args = ("./parse.sh $argv > $argv.chp");
+
+        chdir($CHP) or die "cannot change to Charniak parser directory: $!\n";
+
 	print STDERR "Charniak's syntactic parser in progress...\n";
 	system(@args) == 0
 	    or die "system @args failed: $?";
 	print STDERR "Done.\n";
+
+        chdir($current_dir) or die "cannot change to back to spade's bin directory: $!\n";
 
 	@args = ("perl", "discparse.pl", "$argv.chp");
 	system(@args) == 0
